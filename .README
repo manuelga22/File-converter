@@ -1,0 +1,5 @@
+from/to|  csv | tl5 |  TR9 | TC9 
+csv    |  Y   |  Y  |  N   | N
+tl5    |  Y   |  Y  |  N   | N
+tr9    |  N   |  n  |  N   | N
+tc9    |  N   |  n  |  n   | N
